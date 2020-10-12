@@ -1,3 +1,5 @@
+https://leetcode.com/problems/friendly-movies-streamed-last-month/
+
 SELECT DISTINCT title
 FROM TVProgram tv
 LEFT JOIN Content content
